@@ -1,4 +1,9 @@
 # CS F314 midterm: Rubric
+Basic information
+Name: Sarthak Chaudhary
+BITS ID: 2019A7PS0125G
+Email: f20190125@goa.bits-pilani.ac.in
+Writing the exam from the hostel: N
 ## Question 1 (10 pts)
 These are the points from the slides. If they list at least 3, give full points. They may also include accessibility or some other relevant point - judge yourself. Dock points if there are less than three, or they have written irrelevant points.
 - Competitive, fluid vendor landscape
